@@ -21,4 +21,4 @@ Quiz Bot - это телеграм-бот, который позволяет п�
 
 ## Ссылки
 
-* [Telegram Bot](https://t.me/your_bot_username)
+@QuizFoundersBot
